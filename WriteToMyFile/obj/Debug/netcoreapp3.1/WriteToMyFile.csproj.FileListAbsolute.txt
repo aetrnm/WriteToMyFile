@@ -1,0 +1,12 @@
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\bin\Debug\netcoreapp3.1\WriteToMyFile.exe
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\bin\Debug\netcoreapp3.1\WriteToMyFile.deps.json
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\bin\Debug\netcoreapp3.1\WriteToMyFile.runtimeconfig.json
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\bin\Debug\netcoreapp3.1\WriteToMyFile.runtimeconfig.dev.json
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\bin\Debug\netcoreapp3.1\WriteToMyFile.dll
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\bin\Debug\netcoreapp3.1\WriteToMyFile.pdb
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\obj\Debug\netcoreapp3.1\WriteToMyFile.AssemblyInfoInputs.cache
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\obj\Debug\netcoreapp3.1\WriteToMyFile.AssemblyInfo.cs
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\obj\Debug\netcoreapp3.1\WriteToMyFile.csproj.CoreCompileInputs.cache
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\obj\Debug\netcoreapp3.1\WriteToMyFile.dll
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\obj\Debug\netcoreapp3.1\WriteToMyFile.pdb
+C:\Users\banan\Desktop\WriteToMyFile\WriteToMyFile\obj\Debug\netcoreapp3.1\WriteToMyFile.genruntimeconfig.cache
